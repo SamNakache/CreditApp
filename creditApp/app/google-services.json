@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826115726117",
+    "firebase_url": "https://creditapp-13a34.firebaseio.com",
+    "project_id": "creditapp-13a34",
+    "storage_bucket": "creditapp-13a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826115726117:android:da966f0d356c3b332bd8cc",
+        "android_client_info": {
+          "package_name": "com.miriam_shmuel.creditapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826115726117-8usjfar5ak7gigt5samcoc4s5dda73im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miriam_shmuel.creditapp",
+            "certificate_hash": "2001d942111d26adc9850d53aec7557197792929"
+          }
+        },
+        {
+          "client_id": "826115726117-1983cfvftmn8908b1oa6gjlqhti921me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJER-HG8OQAnYR2vu-VepXc-cV__N4Bjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826115726117-1983cfvftmn8908b1oa6gjlqhti921me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
